@@ -1,0 +1,115 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="641px" height="534px" viewBox="-0.5 -0.5 641 534" content="&lt;mxfile&gt;&lt;diagram id=&quot;y6KeByCLj-Eu4a1sPG8c&quot; name=&quot;Page-1&quot;&gt;7VnbjqM4EP2aSLMPM8JASPdjQnovUo/U2qy0M49ucMAaQ0XG6STz9VvGJlyTZrqZh9VEiiKqXHZcdU5xDJl5YXb8Q9Jd+hliJmauEx9n3nrmun4Q4Ld2nIxj7jrGkUgeGxepHRv+nVlnFbbnMStagQpAKL5rOyPIcxaplo9KCYd22BZE+1d3NGE9xyaiou/9l8cqNd47d1H7/2Q8SatfJsG9GcloFWwzKVIaw6Hh8h5mXigBlLnKjiETunZVXcy83y+MnjcmWa7GTHDNhBcq9ja3h2wnWUHt9tSpyrk48EzQHK3VFnK1sSMEbSp4kuN1hD/KJDpemFQcy7W0Awp26I1SLuJHeoK93lqhaPStslYpSP4dl6XCronDUlnk3aAVsdEz0e2gF7eKMU9VvqTj+kyPrcBHWijriEAIuiv48zmNjMqE5ytQCjIbZKuD6bDjxQqTM27IdwYZU/KEIXbCmbSW6741DzVx3IX1pQ3SnOdRS9bkvHSNJ15YSIfh9XrwzlxMyskhe5boWeL1RkmeJzMssuuRMunQnS2diG/NeAx7XaMuH7AiqsRJwjcWggAEfp2DIQgXouOqOCLYVl1kSLGjEe7lsYxZ+7Xnb1sX7QKcuxVl06Q8jlmu0QVFFTVQ6hR2wHNV1m2+wg9WMnQ+zWdz3HiINqlt/OhwqULIMRfKS1QZ8uTANFfGUcAdpoCF3A3GQe7570fcH0C8g5zgJSIGuer+Rd4EW4YACFbj9I+Gcf2R9LD0+lh6A7gJ+szEExRccdDrSxPbwfM1yNqc5HnKJJ8IymBk9/oTNO98qHkz0CnLUHB9sy0+/NZs3PMw3sQFQ2Upx2+N+1a0iTMSbjLFzTro4V2hfBPjicTYd9pi7Llj1Xg+AcCLoYa+LsXuisUUpy//wgRbfsWwIyEHHNPUv3X5FVIEk8jzwn0/Be5u8vw+eb4O5f3dOCjv3o/k/Qh1bnTsB9vnblg2NPIcn1ltC3c0vGX9om3dVDV/AmIQZ2STE3+CQ3h1Gmg/VpsT2U3LJ9Jyb4SUBz9Lygm5rOWfriu5XqUr5sWeiRhWcq/ARGCr0ZuoX2eHM0yPK6o+RIfFFP3ef412k/UfkvVXwBx8EBtCcwJhJ4MvzboP1oPSjrNqdW/0dE/gf9G+/nFVf5UXAwe+IV4Qf4LDO/F7yLE4YVVGFp1UZZXWsiNXX2wZ9fVXfY21Mtb62Bhanyojx119qQO1+bU5Vk8rrWqe2Zrez3U9xe3DXkY2yr5jwjNBwl4puWSCKv7SXn6onOXUpZT01AiwLKpXfoJSBSs1J0Fbzsm904HGrFgDdd7aOOzmb8SO/J+wu3AI/rnQzb1JoUOz/v/LhNd/InoP/wE=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-184-31-262-34-0">
+            <rect x="184" y="31" width="262" height="34"/>
+        </clipPath>
+        <clipPath id="mx-clip-184-105-262-110-0">
+            <rect x="184" y="105" width="262" height="110"/>
+        </clipPath>
+        <clipPath id="mx-clip-374-311-262-72-0">
+            <rect x="374" y="311" width="262" height="72"/>
+        </clipPath>
+        <clipPath id="mx-clip-374-391-262-144-0">
+            <rect x="374" y="391" width="262" height="144"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-311-252-74-0">
+            <rect x="4" y="311" width="252" height="74"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-393-252-142-0">
+            <rect x="4" y="393" width="252" height="142"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 180 26 L 180 0 L 450 0 L 450 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 180 26 L 180 210 L 450 210 L 450 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 180 26 L 450 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="314.5" y="17.5">
+                Empresa
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-184-31-262-34-0)" font-size="12px">
+            <text x="185.5" y="43.5">
+                + nombre: String
+            </text>
+            <text x="185.5" y="57.5">
+                cif: double
+            </text>
+        </g>
+        <path d="M 180 80 L 450 80" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-184-105-262-110-0)" font-size="12px">
+            <text x="185.5" y="117.5">
+                +mostrarClientes()
+            </text>
+            <text x="185.5" y="131.5">
+                +mostrarEmpleados()
+            </text>
+        </g>
+        <path d="M 370 306 L 370 280 L 640 280 L 640 306" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 370 306 L 370 530 L 640 530 L 640 306" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 370 306 L 640 306" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="504.5" y="297.5">
+                Clientes
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-374-311-262-72-0)" font-size="12px">
+            <text x="375.5" y="323.5">
+                +nombre: String
+            </text>
+            <text x="375.5" y="337.5">
+                +edad:Int
+            </text>
+            <text x="375.5" y="351.5">
+                +telefono:int
+            </text>
+        </g>
+        <path d="M 370 382 L 640 382" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-374-391-262-144-0)" font-size="12px">
+            <text x="375.5" y="403.5">
+                +mostrarClientes
+            </text>
+            <text x="375.5" y="417.5">
+                (nombre,edad, telefono)
+            </text>
+            <text x="375.5" y="431.5">
+                +
+            </text>
+        </g>
+        <path d="M 0 306 L 0 280 L 260 280 L 260 306" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 306 L 0 530 L 260 530 L 260 306" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 306 L 260 306" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="129.5" y="297.5">
+                Empleados
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-311-252-74-0)" font-size="12px">
+            <text x="5.5" y="323.5">
+                +nombre. String
+            </text>
+            <text x="5.5" y="337.5">
+                +edad: int
+            </text>
+            <text x="5.5" y="351.5">
+                +sueldoBruto: float
+            </text>
+        </g>
+        <path d="M 0 384 L 260 384" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-4-393-252-142-0)" font-size="12px">
+            <text x="5.5" y="405.5">
+                +mostrarEmpleados
+            </text>
+            <text x="5.5" y="419.5">
+                (nombre, edad, sueldoBruto)
+            </text>
+            <text x="5.5" y="433.5">
+                +
+            </text>
+        </g>
+        <path d="M 180 155 L 139.95 151 Q 130 150 130 160 L 130 273.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 130 278.88 L 126.5 271.88 L 130 273.63 L 133.5 271.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 450 155 L 490.05 151 Q 500 150 500.38 159.99 L 504.76 273.64" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 504.96 278.88 L 501.19 272.02 L 504.76 273.64 L 508.19 271.75 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>
